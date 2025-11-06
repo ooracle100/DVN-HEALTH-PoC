@@ -1,0 +1,15 @@
+DVN_NAME,required_count,optional_count
+BCW Group,0,14
+BWare,0,14
+BitGo,0,14
+Canary,62,71
+Deutsche Telekom,62,71
+Google Cloud,71,0
+Horizen,0,14
+LayerZero Labs,71,0
+Luganodes,0,57
+Nethermind,14,0
+Omni X,0,14
+P2P,62,14
+Stargate,0,14
+Unknown DVN,0,62

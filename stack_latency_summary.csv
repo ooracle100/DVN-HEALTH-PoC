@@ -1,0 +1,3 @@
+Required_Stack,transactions,median_latency,avg_latency,p95_latency
+Google Cloud + LayerZero Labs,57,66.0,68.0701754385965,84.0
+Canary + Deutsche Telekom + P2P,1,50.0,50.0,50.0

@@ -1,0 +1,6 @@
+DVN_NAME,stacks_involved,total_transactions,avg_median_latency,avg_p95_latency
+Canary,1,1,50.0,50.0
+Deutsche Telekom,1,1,50.0,50.0
+Google Cloud,1,57,66.0,84.0
+LayerZero Labs,1,57,66.0,84.0
+P2P,1,1,50.0,50.0
