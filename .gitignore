@@ -2,3 +2,7 @@ env/
 *.tar.gz
 *.sha256
 *.log
+dt_clean.csv
+data/dt_clean.csv
+query-DT2-NOV2.csv
+query-DT3-NOV2.json
