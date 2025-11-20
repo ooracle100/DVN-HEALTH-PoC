@@ -38,10 +38,10 @@ Limitations
 Please review limitations.md for crucial information on proxy latency calculations, data scope, and ethical considerations.
 
 Contributing
-Currently maintained by [Your Name]. Contributions and feedback are welcome via GitHub issues.
+Currently maintained by ooracle100. Contributions and feedback are welcome via GitHub issues.
 
 License
-[Specify your license here, e.g., MIT or Apache 2.0]
+This project is licensed under the MIT License. See the LICENSE file for full license details.
 
 limitations.md
 Limitations and Disclaimers
